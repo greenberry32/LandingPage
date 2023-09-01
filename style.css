@@ -46,3 +46,75 @@
 }
 
 /*heading css code end*/
+
+
+/*middle css code start*/
+
+body {
+    min-height: 300vh;
+}
+
+.middletitle {
+    text-align: center;
+    padding: 50px;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+img {
+    width: 200px;
+    height: 150px;
+}
+
+.middleimages {
+    display: flex;
+    justify-content: center;
+    gap: 10px;
+}
+
+.text-container {
+    max-width: 200px;
+    text-align: center;
+}
+
+.rounded-images {
+    border-radius: 10px;
+}
+
+.middlebackground {
+    padding-bottom: 100px;
+    background-color: beige;
+    margin: -8px;
+}
+
+/*middle css code ends*/
+
+
+/*2nd to last css code starts*/
+
+.paragraph {
+    margin-top: 80px;
+    margin-left: 30%;
+    text-align: left;
+    align-items: center;
+    flex-direction: column;
+    display: flex;
+    max-width: 500px;
+    font-size: 24px;
+    font-style: "Times New Roman";
+}
+
+.author {
+    margin-left: 55%;
+    font-size: 16px;
+    font-style: "Times New Roman";
+}
+
+.bottombackground {
+    background-color: #C19A6B	;
+    margin: -8px;
+    padding-top: 20px;
+    padding-bottom: 60px;
+}
+
+/*2nd to last css code ends*/
